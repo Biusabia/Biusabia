@@ -1,6 +1,6 @@
 # Greetings!
 
-_Abot me_ 
+_About me_ 
 
 _My name is Sabina and i'm a begginer tester, currently learning test automation using Java_
 
